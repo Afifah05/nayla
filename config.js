@@ -3,8 +3,8 @@ let chalk = require('chalk')
 
 global.Owner = {
     // use the phone number with the country code, for example Indonesia '62' America '1' etc
-    '628818770766': { // 628818770766
-        name: 'Zevano',
+    '601140892512': { // 601140892512
+        name: '˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳❥꒰𝖎𝖊𝖋𝖆 𝖗𝖆𝖜𝖗𝖗 𝖇𝖔𝖙𝖟٭꒱|ೃ࿔₊•',
         isReport: true, // if true this number will send if user use command /report or /join
         isCreator: true, // if true this number will send if user use command /owner or /creator
         isDev: true
@@ -12,19 +12,19 @@ global.Owner = {
 }
 global.ext = {
 	title: 'Sabar sedang di proses',
-	body: 'NayLa-B0TZ',
+	body: '˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳❥꒰𝖎𝖊𝖋𝖆 𝖗𝖆𝖜𝖗𝖗 𝖇𝖔𝖙𝖟٭꒱|ೃ࿔₊•',
 	thum: 'https://telegra.ph/file/5859353a380d9b67be198.jpg'
 }
-global.mods = ['6283897390164'] // Want some help?
+global.mods = ['601140892512'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.DeveloperMode = 'false' // true or false
 global.linkGC = ['https://chat.whatsapp.com/JgFOfu182li7kG6dlKcwzD']
-global.packname = 'NayLa-B0TZ'
+global.packname = '˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳❥꒰𝖎𝖊𝖋𝖆 𝖗𝖆𝖜𝖗𝖗 𝖇𝖔𝖙𝖟٭꒱|ೃ࿔₊•'
 global.author = 'Zevano'
 global.multiplier = 36 // The higher, The harder levelup
-global.sessionName = 'nayla' // The Session name behind the .json example is nayla.json
+global.sessionName = '˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳❥꒰𝖎𝖊𝖋𝖆 𝖗𝖆𝖜𝖗𝖗 𝖇𝖔𝖙𝖟٭꒱|ೃ࿔₊•' // The Session name behind the .json example is nayla.json
 global.mesreport = 50
-global.botname = 'NAYLA-BOTZ'
+global.botname = '˚₊·͟͟͟͟͟͟͞͞͞͞͞͞➳❥꒰𝖎𝖊𝖋𝖆 𝖗𝖆𝖜𝖗𝖗 𝖇𝖔𝖙𝖟٭꒱|ೃ࿔₊•'
 global.thumnail = ext.thum // It's hard to change if you don't get an error
 global.thum = ext.thum // Same as above
     global.mess = {
@@ -40,8 +40,8 @@ global.thum = ext.thum // Same as above
     unreg: '── 「 NOT REGISTERED 」 ──\nSilakan Register Terlebih Dahulu Sebelum Menggunakan Bot. Cara Register Cukup Dengan Command *.daftar nama.umur*\nContoh .daftar ' + global.botname + '.16\n\nNote\nHarap Save Serial Number Mu Agar Bisa Melakukan Unreg Database Bot',
     sukses: 'Done Ya kawand',
     wm: '© nayla',
-    wel: 'Hai @user\n◪ Welcome in group:\n├─ @subject\n├─ Intro dulu\n├─ ❏ Nama: \n├─ ❏ Umur: \n├─ ❏ Asal kota: \n├─ ❏ Kelas: \n├─ ❏ Jenis kelamin:',
-    bye: 'Selamat Tinggal @user!\nTerimakasih Telah Bergabung Di Grup\n\nKalo Balik Jangan Lupa Bawa Gorengan Buat Anggota Disini',
+    wel: 'Welcome newbie🤗 @user!\ 👋🏻, jika ada masalah bole cht admin ye🥰terima kasih support group nie taw🥰klu nk left bg tau dulu sbb ape okey🥰beri kerjasama yg baik wokey jgn gado² 🤗 ' ',
+    bye: 'Selamat tinggal @user!\ 👋🏻, jgn balik lagi ya! Admin unn tknk kutip ko blik kt selection😏masuk bkn main beria😍astu nk left bg byk alasan pulakk🫣astu tk puas hati ajak circle ajak kroni huwaaa😍astu koyak tepi jamban😍sikit² sudah lebih² suruh besti ko layan🤗'',
     promote: '「 PROMOTE - DETECTED 」\nTarget : @user\nStatus : Member -> Admin\nSELAMAT KAMU JADI ADMIN',
     demote: '「 DEMOTE - DETECTED 」\nTarget : @user\nStatus : Admin -> Member\nYAHAHA KASIAN KENA DEMOTE'
 }
